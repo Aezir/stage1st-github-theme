@@ -6,7 +6,7 @@
 
 1. 在浏览器中安装 Tampermonkey 或 Violentmonkey。
 2. 如果已启用「Stage1st 企业微信主题」，先在脚本管理器里停用它。
-3. 点击 [安装 Stage1st GitHub 风格](https://raw.githubusercontent.com/Aezir/stage1st-github-theme/main/stage1st-github.user.js)，确认安装，再打开 [Stage1st](https://stage1st.com/2b/forum.php)。
+3. 点击 [安装 Stage1st GitHub 风格](https://github.com/Aezir/stage1st-github-theme/releases/latest/download/stage1st-github.user.js)，确认安装，再打开 [Stage1st](https://stage1st.com/2b/forum.php)。
 
 用右上角的主题按钮切换配色。点击「原版」或按 `Alt + W` 可切回论坛原版页面。
 
